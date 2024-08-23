@@ -4,12 +4,17 @@ Brief Explanation of Work on Project Two:
 In Project Two for CS 370, I developed a pirate intelligent agent using deep Q-learning, a type of reinforcement learning algorithm, to navigate a treasure hunt game environment. The goal was to create an agent capable of learning and optimizing its actions over time to maximize rewards by finding the treasure efficiently.
 
 Code Provided:
+
 •	The project included a predefined environment setup, which consisted of the game grid, treasure, and pirate agent.
+
 •	Basic functionality for agent movement and environment interaction was provided, along with a framework for running simulations.
 
 Code Created:
+
 •	I implemented the core deep Q-learning algorithm, which involved defining the agent's neural network architecture to predict Q-values (expected future rewards) for different actions.
+
 •	I wrote the training loop, where the agent explored the environment, learned from its actions using the Q-learning algorithm, and gradually improved its strategy.
+
 •	I also implemented functions to visualize the agent's learning progress and evaluate its performance over time, enabling me to monitor and refine the agent’s behavior.
 
 
